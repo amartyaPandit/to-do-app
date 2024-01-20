@@ -9,5 +9,6 @@
 <body>
 <input>Username</input>
 <input>Password</input>
+<h2>${name}</h2>
 </body>
 </html>
